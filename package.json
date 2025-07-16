@@ -1,0 +1,23 @@
+{
+  "name": "ammrysir-auth-express",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "express"
+  ],
+  "homepage": "https://github.com/AmmrYsir/ammrysir-auth-express#readme",
+  "bugs": {
+    "url": "https://github.com/AmmrYsir/ammrysir-auth-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmmrYsir/ammrysir-auth-express.git"
+  },
+  "license": "ISC",
+  "author": "AmmrYsir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
